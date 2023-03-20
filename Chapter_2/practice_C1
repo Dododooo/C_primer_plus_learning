@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int inch;
+    int cimi;
+    printf("Please input the num you want");
+    
+
+}
