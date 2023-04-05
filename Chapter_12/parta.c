@@ -7,6 +7,7 @@ int main(void)
 {
     int value;
     register int i;
+    extern int count;
 
     printf("Enter a positice integer (0 to quit)\n");
     while(scanf("%d",&value)==1&&value>0)
